@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Decision {
     
     public static void validaNumero(int n){
-        if(n > 0){
+        if(n >= 0){
             System.out.println("El número ingresado es positivo.");
         }else{
             System.out.println("El número ingresado es negativo.");
