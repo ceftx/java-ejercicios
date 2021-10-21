@@ -17,7 +17,7 @@ public class ComprobarEst {
         nombre = ent.nextLine(); 
         System.out.println("Ingrese su calificación: ");
         cali = ent.nextFloat(); 
-        if(cali <= 9){
+        if(cali < 10){
             System.out.println(nombre +", debe estudiar más, estas reprobado.");
         }else if(cali >= 10 && cali <= 13){
             System.out.println(nombre +", su nota es de: " + cali + ", y su expresión" +
