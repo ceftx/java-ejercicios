@@ -2,7 +2,6 @@
 package entero;
 import java.util.Scanner;
 /**
- *
  * @author ceftx
  */
 
