@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-/DecisionesClaudioMora/target/
-/ComprobandoClaudioMora/target/
-/RepeticionesClaudioMora/target/
-=======
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -32,4 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
->>>>>>> 4c26037 (new)
